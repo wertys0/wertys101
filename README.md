@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<!--
+my name is Alex Sosa, and my major is Game studies and Design. I'm currently working on a semester-long project while simultaneously learning the in's and out's of Unity. Some fun facts about me is that I'm an artist who mainly creates digital art, and I've even made prtotype games using a browser software called Construct3. You can reach me by using my school email asosa001@odu.edu   
+<!-- 
 **wertys101/wertys101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
